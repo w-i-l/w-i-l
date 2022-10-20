@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **w-i-l/w-i-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Group 1](https://user-images.githubusercontent.com/65015373/196880617-5be163e7-fa87-4be5-820c-8ee2523d6a6a.jpg)
+
+![Group 1 (1)](https://user-images.githubusercontent.com/65015373/196880894-8ae5e94f-45be-4959-b06e-ba414d25a5e4.jpg)
